@@ -13,6 +13,7 @@ TESTS = \
 	mkrc-host-file.t \
 	mkrc-hostname.t \
 	mkrc-simple-output.t \
+	mkrc-simple-spaces.t \
 	mkrc-symlink-dirs.t \
 	mkrc-tagged-file.t \
 	mkrc-usage.t \
